@@ -87,7 +87,7 @@
                 </div>
                 <div class="row text-center">
                     <div class="col-md-8">
-                    <img class=" rounded img-fluid" style="max-width:80%;height:auto;"src="\images\epondo\home.jpg" alt="Virtual machine vector created by pikisuperstar - www.freepik.com" />
+                    <img class=" rounded img-fluid" style="max-width:80%;height:auto;"src="\images\epondo\home.JPG" alt="Virtual machine vector created by pikisuperstar - www.freepik.com" />
                     </div>
                     <div class="col-md-4">
                         <div class="row">
@@ -267,7 +267,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content"><i class="fas fa-external-link fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="\images\epondo\home.jpg" alt="ePondo Logo" />
+                            <img class="img-fluid" src="\images\epondo\home.JPG" alt="ePondo Logo" />
                         </a>
                         <div class="portfolio-caption">
                             <div class="portfolio-caption-heading">Landing Page</div>
@@ -472,7 +472,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
                 <form id="contactForm" action="{{route('contact.store')}}" method="POST">
                     @csrf

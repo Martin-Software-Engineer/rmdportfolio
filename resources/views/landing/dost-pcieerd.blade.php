@@ -149,7 +149,7 @@
                     </div>
                     <div class="col-md-6">
                     <div style="padding-top:100px;">
-                        <h5 class="pb-2" style="font-styl:italic;">Technical Assistant to Business Analyst</h5>
+                        <h5 class="pb-2" style="font-styl:italic;">Business Analyst Technical Assistant</h5>
                         
                         <ul>
                             <li class="text-muted">Work closely with Business Analyst</li>
@@ -272,7 +272,7 @@
                             Management, Financial Management, Procurement and Inventory Management and Customer Management.
                         </p>
                         <h6 class="pt-4"> Sample Wireframe Design</h6>
-                        <img class="img-fluid" style="border: 7px solid #e9ecef;max-width:50%" src="\images\pcieerd\KMIS.jpg" alt="..." />
+                        <img class="img-fluid" style="border: 7px solid #e9ecef;max-width:50%" src="\images\pcieerd\KMIS.JPG" alt="..." />
                         <p class="text-muted pt-2">This figure shows the sample wireframe design for the Knowledge Management Information System.</p>
                     </div>
                 </div>
@@ -496,7 +496,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
                 <form id="contactForm" action="{{route('contact.store')}}" method="POST">
                     @csrf
