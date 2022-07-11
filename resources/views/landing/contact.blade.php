@@ -68,7 +68,7 @@
             <div class="container">
                 <div class="text-center pt-4">
                     <h2 class="section-heading text-uppercase">Contact</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
                 <form id="contactForm" action="{{route('contact.store')}}" method="POST">
                     @csrf
